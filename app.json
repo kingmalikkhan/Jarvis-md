@@ -40,7 +40,7 @@
             "value":"null"
         },
         "SESSION_ID": {
-            "description": "session id",
+            "description": "Jarvis_c1c7_6075_5bce_ed71_5bbc_6b0b_59a4_8823",
             "required": true
         },
         "WORK_TYPE": {
@@ -59,17 +59,17 @@
         "STICKER_PACKNAME": {
             "description": "sticker package name",
             "required": true,
-            "value":"ʟᴏᴋɪ;ᴊᴀʀᴠɪꜱ"
+            "value":" malik kha "
         },
         "SUDO": {
             "description": "owner number of the bot",
             "required": false,
-            "value":"4915252819677"
+            "value":"923436062975"
         },
         "ALLWAYS_ONLINE": {
             "description": "show bot number last seen as online",
             "required": false,
-            "value":"false"
+            "value":"true"
         },
         "READ_MSG": {
             "description": "Read all messages",
@@ -84,7 +84,7 @@
         "STATUS_VIEW": {
             "description": "status views use true for view all status or use only-view=jid to only view given jid status or use not-view=jid to not view the one person status and view anothers",
             "required": false,
-            "value":"false"
+            "value":"true"
         },
         "REJECT_CALL": {
             "description": "automatic reject call",
