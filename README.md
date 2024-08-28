@@ -1,8 +1,8 @@
-#### JARVIS MD WHATSAPP BOT
+#### MALIK KHAN WHATSAPP BOT
 jarvis md is Multi Device whatsapp bot
 ***
 
-### SETUP JARVIS
+### SETUP Malik
 
 1. Scan the QR code
     <br>
